@@ -1,5 +1,16 @@
-# go-bitcoin
-bitcoinを取り扱うAPIの実装
+# nuxt アプリ
 
+<br>
 
-bit FlayerのAPIと連携して自動売買システムトレーディングの実装を行う。
+## 構成
+
+言語：TypeScript <br>
+フレームワーク：Nuxt.js（SSR） <br>
+CI：Github Actions <br>
+コンポーネント管理：storyBook <br>
+Store：Vuex <br>
+server：express.js<br>
+データベース：MySQL <br>
+その他機能：Slack通知、PWA対応、PDF発行 <br>
+スタイルリント：ESLint、StyleLint <br>
+API：ポケモンAPI
