@@ -11,6 +11,6 @@ CI：Github Actions <br>
 Store：Vuex <br>
 server：express.js<br>
 データベース：MySQL <br>
-その他機能：Slack通知、PWA対応、PDF発行 <br>
+その他機能：Slack 通知、PWA 対応、PDF 発行 <br>
 スタイルリント：ESLint、StyleLint <br>
-API：ポケモンAPI
+API：ポケモン API
