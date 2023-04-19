@@ -1,5 +1,6 @@
 {
   "semi": false,
   "singleQuote": true,
+  "requirePragma": true,
   "printWidth": 120
 }
