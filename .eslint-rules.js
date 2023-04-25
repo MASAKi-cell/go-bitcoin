@@ -23,7 +23,7 @@ module.exports = {
   // 三項演算子の改行を統一する
   'multiline-ternary': ['error', 'always-multiline'],
 
-  // ◯シングルクオートの設定
+  // シングルクオートの設定
   quotes: ['error', 'single'],
 
   // インデントはスペース2つ。
